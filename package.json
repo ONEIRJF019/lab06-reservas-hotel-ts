@@ -1,0 +1,17 @@
+{
+  "name": "lab03-reservas-hotel-ts",
+  "version": "1.0.0",
+  "description": "Sistema de Reservas de Hotel em TypeScript",
+  "main": "reservas.ts",
+  "scripts": {
+    "start": "ts-node reservas.ts",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
